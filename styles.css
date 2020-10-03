@@ -1,20 +1,21 @@
 body {
   text-align: center;
   background-image: linear-gradient(to left,  #6b7dae,#283149, #364263); 
-  height: 100vh;
 }
 
 h1 {
-  font-size: 5rem;
+  font-size: 4rem;
   color: #DBEDF3;
   font-family: "Arvo", cursive;
   text-shadow: 3px 0 #DA0463;
 
 }
 .gameover {
-  font-size: 3rem;
-  padding-top: -7rem;
-  display: none;
+  font-size: 2rem;
+  color: #DBEDF3;
+  font-family: "Arvo", cursive;
+  text-shadow: 3px 0 #DA0463;
+  padding-bottom: 2rem;
 }
 
 footer {
